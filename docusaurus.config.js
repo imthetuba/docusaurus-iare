@@ -81,12 +81,9 @@ const config = {
           },
           { to: '/blog', label: 'Nyheter', position: 'left' },
           { to: '/business', label: 'Företag', position: 'left' },
-<<<<<<< HEAD
           { to: '/doc-intro', label: 'Nämnder2', position: 'left' },
-=======
           { to: '/section', label: 'Om sektionen', position: 'left' },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
->>>>>>> e4ddbfe5888774bbdd8a46c944e7c9c39d337a65
           
           { 
             href: 'https://pubquery.se/',
