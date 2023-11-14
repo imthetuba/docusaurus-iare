@@ -5,7 +5,7 @@ const MyPage = () => {
   // Define your data with button information
   const buttonData = [
     { id: 1, label: 'Ledamöter till Kårfullmäktige', href: 'docs/central/karfullmaktige', position: { top: '25%', left: '82%' } },
-    { id: 2, label: 'Clubmästeriet', href: 'docs/event/cmi', position: { top: '50%', left: '60%' } },
+    { id: 2, label: 'Clubmästeriet', href: 'docs/event/cmi', position: { top: '75%', left: '12%' } },
     { id: 3, label: 'GenI', href: 'docs/social/geni', position: { top: '80%', left: '20%' } },
     { id: 4, label: 'Näringslivsnämnden', href: 'docs/business/businesscom', position: { top: '80%', left: '20%' } },
     { id: 5, label: 'iSkillnad', href: 'docs/projects/iskillnad', position: { top: '80%', left: '20%' } },
